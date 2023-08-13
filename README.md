@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjeong-heo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonjeong-heo&show_icons=true&theme=tokyonight)
